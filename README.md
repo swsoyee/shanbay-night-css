@@ -19,8 +19,8 @@ Maybe some element is not under a appropriate modification, so I'm glad to recei
 ---
 
 ## 预览 | Preview
-![首页](https://github.com/swsoyee/HiNative.com-night-mode-CSS/blob/master/screenshot1.png)
-![新闻](https://github.com/swsoyee/HiNative.com-night-mode-CSS/blob/master/screenshot2.png)  
+![首页](https://github.com/swsoyee/shanbay-night-css/blob/master/Home.jpg)
+![新闻](https://github.com/swsoyee/shanbay-night-css/blob/master/News.jpg)  
 
 ## 更新记录 | Update log  
 - 20180708  Homepage, Word, Listen & News pages are modified.
