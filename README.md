@@ -5,7 +5,7 @@
 
 ## 安装地址和使用方法 
 1. 确保浏览器（Chrome或者Firefox）等已经安装了[Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?utm_source=chrome-ntp-icon)或者[Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?utm_source=chrome-ntp-icon)等插件并且开启；
-2. 点击到[stylish](https://userstyles.org/styles/149089/neets-cc)页面后直接点击`⬇ Install Style`按键即可一键安装并且使用。  
+2. 点击到[Stylish](https://userstyles.org/styles/162300/shanbay-night-version)页面后直接点击`⬇ Install Style`按键即可一键安装并且使用。  
 
 ---
 
