@@ -1,3 +1,4 @@
+@-moz-document url-prefix("https://www.shanbay.com/") {
 /****首页****/
 /*首页背景颜色*/
 .navbar-fixed-top, body {
@@ -30,17 +31,21 @@ body .main-body .tasks-outer-container .checkin-container .note .user-checkin-no
 /*听力container背景颜色*/
 
 /*听力学习*/
-div.container.main-body {
+div.container.main-body,body .main-body.container .modal.book-detail-modal .modal-header {
     background-color: #293134;
     color: #E0E2E4
 }
 
-.navigate .entry .book ul.articles li.article.finished {
+.navigate .entry .book ul.articles li.article.finished, body .main-body.container .modal.book-detail-modal .nav-tabs li a {
     color: #E0E2E4
 }
 
+body .main-body.container .modal.book-detail-modal .nav-tabs li a:hover {
+    color: #3F4B4E;
+}
+
 /*学习预备界面*/
-div.container.main-body.review, .train-summary-container .white-background, .train-summary-container,.train-summary-container .share-container {
+div.container.main-body.review, .train-summary-container .white-background, .train-summary-container,.train-summary-container .share-container, body .main-body.container .modal.book-detail-modal .tab-content, body .main-body.container .modal.book-detail-modal .modal-body, body .main-body.container .modal.book-detail-modal .modal-footer {
     background-color: #3F4B4E;
 }
 .section.sentence:hover, .section.article:hover {
@@ -149,4 +154,5 @@ modal hide book-detail-modal in {
 }
 .nav.nav-tabs.nav-horizon li a, table tbody .notification-name, table tbody .checked span {
     color: #E0E2E4;
+}
 }
